@@ -28,6 +28,7 @@
 		74057A98299C00E40038B501 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		74561185299CC44C00CFD524 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		74561186299CC72000CFD524 /* screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = screenshot.png; path = ../../../../../Documents/screenshot.png; sourceTree = "<group>"; };
+		74561189299CF19900CFD524 /* screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot.png; sourceTree = "<group>"; };
 		7486F371299C8B550056CCDC /* CatFactsBrain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatFactsBrain.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -45,6 +46,7 @@
 		74057A78299BF1E70038B501 = {
 			isa = PBXGroup;
 			children = (
+				74561188299CF18C00CFD524 /* Screenshots */,
 				74561185299CC44C00CFD524 /* README.md */,
 				74561186299CC72000CFD524 /* screenshot.png */,
 				74057A83299BF1E70038B501 /* Cat Facts */,
@@ -73,6 +75,14 @@
 				74057A92299BF1F00038B501 /* Info.plist */,
 			);
 			path = "Cat Facts";
+			sourceTree = "<group>";
+		};
+		74561188299CF18C00CFD524 /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				74561189299CF19900CFD524 /* screenshot.png */,
+			);
+			path = Screenshots;
 			sourceTree = "<group>";
 		};
 		7486F36E299C8B120056CCDC /* Model */ = {
