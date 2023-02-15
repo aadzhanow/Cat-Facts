@@ -26,9 +26,11 @@ class ViewController: UIViewController {
     @IBAction func refreshFact(_ sender: UIButton) {
         
         factsLabel.text = catFactsBrain.getRandomFact()
+        print("button pressed")
         
     }
     
+
     
 
 }
