@@ -4,7 +4,7 @@ Cat Facts is a simple iOS app that allows you to learn fun and interesting facts
 
 # Screenshot
 
-![ScreenShot](Screenshots/screenshot.png)
+<img src="Screenshots/screenshot.png" alt="Screenshot" width="400">
 
 # Getting Started
 
